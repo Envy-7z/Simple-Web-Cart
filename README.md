@@ -17,7 +17,7 @@ Make sure all requirements are installed on the system.
 Clone the project and install dependencies:
 
 ```bash
-$ git clone https://github.com/wisnuuakbr/simple-web-cart.git
+$ https://github.com/Envy-7z/Simple-Web-Cart
 $ cd simple-web-cart
 $ composer install
 $ npm install
